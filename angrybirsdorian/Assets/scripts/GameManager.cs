@@ -1,14 +1,20 @@
-using UnityEngine;
+﻿using UnityEngine;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
     public GameObject[] pajaros;
-    public Transform puntoAnclaje;
+    public Transform puntoSpawn;
 
     private int indiceActual = 0;
 
+    [Header("Puntaje")]
+    public int puntaje = 0;
+    public TextMeshProUGUI textoPuntaje;
+
     void Start()
     {
+        ActualizarUI();
         CrearSiguientePajaro();
     }
 
@@ -16,13 +22,13 @@ public class GameManager : MonoBehaviour
     {
         if (indiceActual >= pajaros.Length)
         {
-            Debug.Log("Se acabaron los p�jaros");
+            Debug.Log("Se acabaron los pájaros");
             return;
         }
 
         GameObject nuevo = Instantiate(
             pajaros[indiceActual],
-            puntoAnclaje.position,
+            puntoSpawn.position,
             Quaternion.identity
         );
 
@@ -30,5 +36,16 @@ public class GameManager : MonoBehaviour
         script.manager = this;
 
         indiceActual++;
+    }
+
+    public void SumarPuntos(int puntos)
+    {
+        puntaje += puntos;
+        ActualizarUI();
+    }
+
+    void ActualizarUI()
+    {
+        textoPuntaje.text = "Puntos: " + puntaje;
     }
 }

@@ -33,14 +33,14 @@ public class Resortera : MonoBehaviour
 
     void Update()
     {
-        // Mantener Kinematic antes de lanzar
+        
         if (!lanzado)
         {
             rb.bodyType = RigidbodyType2D.Kinematic;
             rb.linearVelocity = Vector2.zero;
         }
 
-        // Arrastre con mouse
+        
         if (arrastrando)
         {
             Vector3 mouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -56,13 +56,13 @@ public class Resortera : MonoBehaviour
             transform.position = puntoAnclaje + direccion;
         }
 
-        // Soltar
+        
         if (Input.GetMouseButtonUp(0) && arrastrando)
         {
             Lanzar();
         }
 
-        // Detectar fin de turno (estable)
+        
         if (lanzado && !yaAviso)
         {
             tiempoDesdeLanzamiento += Time.deltaTime;
