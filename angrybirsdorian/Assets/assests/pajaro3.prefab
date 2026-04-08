@@ -142,10 +142,10 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 8.72
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
+  m_LinearDamping: 0.65
+  m_AngularDamping: 0.63
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 8086a435e2e5a9e409ce4a1c0625b999, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -169,7 +169,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Resortera
   maxDistancia: 1.6
-  fuerza: 10
+  fuerza: 11.59
   tiempoMinimo: 2
   velocidadMinima: 0.15
+  tiempoParaSiguiente: 1
   manager: {fileID: 0}
