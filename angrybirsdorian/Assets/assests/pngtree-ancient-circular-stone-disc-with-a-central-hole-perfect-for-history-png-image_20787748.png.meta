@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 75052084ac9bd754f90607ef7deb0d46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7005979125199919328
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_0
+  - first:
+      213: 3139368407261485670
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_1
+  - first:
+      213: 405866499481571318
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_2
+  - first:
+      213: 670248233367065849
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_3
+  - first:
+      213: 702481288586976633
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_4
+  - first:
+      213: -1157269504131332169
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_5
+  - first:
+      213: -765811610904771417
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_6
+  - first:
+      213: 4567567632192119155
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_7
+  - first:
+      213: 4249924437498583118
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_8
+  - first:
+      213: -9109260777670608778
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_9
+  - first:
+      213: -2457100107694631846
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_10
+  - first:
+      213: -2540656402070748777
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_11
+  - first:
+      213: -2545484406278710412
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_12
+  - first:
+      213: 4116259002416971950
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_13
+  - first:
+      213: -8177258132120104308
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_14
+  - first:
+      213: 7286325866891566023
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_15
+  - first:
+      213: -3743185864294563339
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_16
+  - first:
+      213: 4039564967185505276
+    second: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 2377
+        height: 2375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02728aada13c5ce90800000000000000
+      internalID: -7005979125199919328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_1
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2400
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a97edeee6419b20800000000000000
+      internalID: 3139368407261485670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_2
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff84df4e6de1a500800000000000000
+      internalID: 405866499481571318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_3
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1796
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f45d2597333d4900800000000000000
+      internalID: 670248233367065849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_4
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd5939207bfb900800000000000000
+      internalID: 702481288586976633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_5
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1198
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b70cd8748d80ffe0800000000000000
+      internalID: -1157269504131332169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_6
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c627b56a4f55f0800000000000000
+      internalID: -765811610904771417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_7
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 594
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371226cbf82436f30800000000000000
+      internalID: 4567567632192119155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_8
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48da5342c3cafa30800000000000000
+      internalID: 4249924437498583118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6787b8ce597659180800000000000000
+      internalID: -9109260777670608778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5499476870a6edd0800000000000000
+      internalID: -2457100107694631846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791404a9676cdbcd0800000000000000
+      internalID: -2540656402070748777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b16764b6f9cacd0800000000000000
+      internalID: -2545484406278710412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_13
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0419af0c3ef1930800000000000000
+      internalID: 4116259002416971950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_14
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c829e46cd0b848e80800000000000000
+      internalID: -8177258132120104308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_15
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbdfc575ca3e1560800000000000000
+      internalID: 7286325866891566023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_16
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f18576e9488d0cc0800000000000000
+      internalID: -3743185864294563339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_17
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb54346fea6f0830800000000000000
+      internalID: 4039564967185505276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_0: -7005979125199919328
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_1: 3139368407261485670
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_10: -2457100107694631846
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_11: -2540656402070748777
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_12: -2545484406278710412
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_13: 4116259002416971950
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_14: -8177258132120104308
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_15: 7286325866891566023
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_16: -3743185864294563339
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_17: 4039564967185505276
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_2: 405866499481571318
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_3: 670248233367065849
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_4: 702481288586976633
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_5: -1157269504131332169
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_6: -765811610904771417
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_7: 4567567632192119155
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_8: 4249924437498583118
+      pngtree-ancient-circular-stone-disc-with-a-central-hole-perfect-for-history-png-image_20787748_9: -9109260777670608778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

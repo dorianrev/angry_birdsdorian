@@ -3,7 +3,7 @@ using UnityEngine;
 public class Resortera : MonoBehaviour
 {
     public Transform puntoAnclaje;
-    public float maxDistancia = 3f;
+    public float maxDistancia = 1f;
     public float fuerza = 10f;
 
     private Rigidbody2D rb;
