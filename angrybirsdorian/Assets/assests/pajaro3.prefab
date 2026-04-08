@@ -171,6 +171,6 @@ MonoBehaviour:
   maxDistancia: 1.6
   fuerza: 11.59
   tiempoMinimo: 2
-  velocidadMinima: 0.15
+  velocidadMinima: 1.56
   tiempoParaSiguiente: 1
   manager: {fileID: 0}

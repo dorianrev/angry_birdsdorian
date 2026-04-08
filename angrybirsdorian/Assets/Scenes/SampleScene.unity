@@ -881,6 +881,7 @@ GameObject:
   - component: {fileID: 246022891}
   - component: {fileID: 246022893}
   - component: {fileID: 246022894}
+  - component: {fileID: 246022895}
   m_Layer: 0
   m_Name: smoking-pig-pig_0
   m_TagString: Untagged
@@ -1024,6 +1025,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &246022895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246022889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b17b936c77539439f0fce8d42753fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemigo
+  resistencia: 2.1
+  vida: 2.12
 --- !u!1 &285196249
 GameObject:
   m_ObjectHideFlags: 0
@@ -1036,6 +1051,7 @@ GameObject:
   - component: {fileID: 285196251}
   - component: {fileID: 285196253}
   - component: {fileID: 285196254}
+  - component: {fileID: 285196255}
   m_Layer: 0
   m_Name: hyper-realistic-picture-of-a-more-average-looking-pig-smoking-meme-3_0
   m_TagString: Untagged
@@ -1179,6 +1195,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &285196255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285196249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b17b936c77539439f0fce8d42753fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemigo
+  resistencia: 2.41
+  vida: 2.29
 --- !u!1 &318415666
 GameObject:
   m_ObjectHideFlags: 0
@@ -2218,6 +2248,7 @@ GameObject:
   - component: {fileID: 1017041541}
   - component: {fileID: 1017041540}
   - component: {fileID: 1017041543}
+  - component: {fileID: 1017041544}
   m_Layer: 0
   m_Name: hyper-realistic-picture-of-a-more-average-looking-pig-smoking-meme-3_0
     (1)
@@ -2362,6 +2393,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1017041544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017041539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b17b936c77539439f0fce8d42753fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemigo
+  resistencia: 2.37
+  vida: 1.92
 --- !u!1 &1145784429
 GameObject:
   m_ObjectHideFlags: 0
@@ -2769,6 +2814,7 @@ GameObject:
   - component: {fileID: 1867611522}
   - component: {fileID: 1867611524}
   - component: {fileID: 1867611525}
+  - component: {fileID: 1867611526}
   m_Layer: 0
   m_Name: smoking-pig-pig_0 (1)
   m_TagString: Untagged
@@ -2922,6 +2968,20 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 4.98, y: 4.98}
   m_EdgeRadius: 0
+--- !u!114 &1867611526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867611520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b17b936c77539439f0fce8d42753fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemigo
+  resistencia: 2.04
+  vida: 2.63
 --- !u!1 &2027855785
 GameObject:
   m_ObjectHideFlags: 0
