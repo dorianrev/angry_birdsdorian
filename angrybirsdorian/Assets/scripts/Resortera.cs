@@ -4,6 +4,8 @@ public class Resortera : MonoBehaviour
 {
     public float maxDistancia = 1f;
     public float fuerza = 10f;
+    private Controles inputActions;
+    
 
     private bool yaAviso = false;
     private float tiempoDesdeLanzamiento = 0f;
@@ -102,6 +104,12 @@ public class Resortera : MonoBehaviour
 
         arrastrando = true;
     }
+    private void Awake()
+    {
+        inputActions = new Controles();
+       
+    }
+
 
     void Lanzar()
     {

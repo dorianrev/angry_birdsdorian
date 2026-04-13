@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "Controles",
+    "maps": [
+        {
+            "name": "PajarosVScerdos",
+            "id": "80a9e4d9-a3cd-43a1-9b1d-da4ac95df4f1",
+            "actions": [
+                {
+                    "name": "Presionado",
+                    "type": "Button",
+                    "id": "189ef434-3bad-4032-86f3-b010589772ba",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Posicion",
+                    "type": "Value",
+                    "id": "4266a6f2-f32f-41b3-94d8-59cf12ab9cea",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1b91e9fc-15ac-49f8-b0c0-9c65c8d2c077",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Presionado",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2855b6b6-2340-4aed-8ac0-3d536493cf82",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Posicion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
