@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Resortera : MonoBehaviour
 {
@@ -92,12 +93,25 @@ public class Resortera : MonoBehaviour
         {
             manager.CrearSiguientePajaro();
         }
-        else
-        {
-            Debug.LogError("Manager no asignado");
-        }
+      
+    }
+    private void OnEnable()
+    {
+        inputActions.PajarosVScerdos.Enable();
+        inputActions.PajarosVScerdos.Presionado.started += LePicamos;
+        inputActions.PajarosVScerdos.Presionado.canceled += YaNo;
+        inputActions.PajarosVScerdos.Posicion.ReadValue<Vector2>();
+
     }
 
+    void LePicamos(InputAction.CallbackContext handler)
+    {
+        print("jaja click");
+    }
+    void YaNo(InputAction.CallbackContext handler)
+    {
+        print("jaja soltaste");
+    }
     void OnMouseDown()
     {
         if (lanzado) return;

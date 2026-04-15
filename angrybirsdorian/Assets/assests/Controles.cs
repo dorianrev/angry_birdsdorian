@@ -125,6 +125,17 @@ public partial class @Controles: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
+                    ""id"": ""27ee525c-538c-4969-a800-b7b67be770c6"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Presionado"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""2855b6b6-2340-4aed-8ac0-3d536493cf82"",
                     ""path"": ""<Mouse>/position"",
                     ""interactions"": """",
