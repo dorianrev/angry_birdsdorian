@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff4d821d1227f3439df430593971ff7, type: 3}
+  m_Name: broski
+  m_EditorClassIdentifier: Assembly-CSharp::Herramienta
+  spriteRenderer: {fileID: 0}
+  nombre: Brosquito
+  imagen: {fileID: -704320688211946697, guid: 014608ddac53bb6429bb08786056e990, type: 3}
